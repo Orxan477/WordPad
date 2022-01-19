@@ -1,2 +1,2 @@
-# WordPad-App
-Supports txt and docx files
+# WordPad-Application
+Supports txt and docx files.
