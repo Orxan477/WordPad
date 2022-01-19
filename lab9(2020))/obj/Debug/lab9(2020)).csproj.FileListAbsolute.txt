@@ -1,0 +1,30 @@
+C:\Users\hp\source\repos\lab9(2020))\lab9(2020))\bin\Debug\lab9(2020)).exe.config
+C:\Users\hp\source\repos\lab9(2020))\lab9(2020))\bin\Debug\lab9(2020)).exe
+C:\Users\hp\source\repos\lab9(2020))\lab9(2020))\bin\Debug\lab9(2020)).pdb
+C:\Users\hp\source\repos\lab9(2020))\lab9(2020))\obj\Debug\lab9(2020)).csprojAssemblyReference.cache
+C:\Users\hp\source\repos\lab9(2020))\lab9(2020))\obj\Debug\lab9_2020__.Form1.resources
+C:\Users\hp\source\repos\lab9(2020))\lab9(2020))\obj\Debug\lab9_2020__.Properties.Resources.resources
+C:\Users\hp\source\repos\lab9(2020))\lab9(2020))\obj\Debug\lab9(2020)).csproj.GenerateResource.cache
+C:\Users\hp\source\repos\lab9(2020))\lab9(2020))\obj\Debug\lab9(2020)).csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\lab9(2020))\lab9(2020))\obj\Debug\lab9(2020)).exe
+C:\Users\hp\source\repos\lab9(2020))\lab9(2020))\obj\Debug\lab9(2020)).pdb
+D:\Orxan\Documents\Visual Studio isler\lab9(2020))\lab9(2020))\bin\Debug\lab9(2020)).exe.config
+D:\Orxan\Documents\Visual Studio isler\lab9(2020))\lab9(2020))\bin\Debug\lab9(2020)).exe
+D:\Orxan\Documents\Visual Studio isler\lab9(2020))\lab9(2020))\bin\Debug\lab9(2020)).pdb
+D:\Orxan\Documents\Visual Studio isler\lab9(2020))\lab9(2020))\obj\Debug\lab9(2020)).csprojAssemblyReference.cache
+D:\Orxan\Documents\Visual Studio isler\lab9(2020))\lab9(2020))\obj\Debug\lab9_2020__.Form1.resources
+D:\Orxan\Documents\Visual Studio isler\lab9(2020))\lab9(2020))\obj\Debug\lab9_2020__.Properties.Resources.resources
+D:\Orxan\Documents\Visual Studio isler\lab9(2020))\lab9(2020))\obj\Debug\lab9(2020)).csproj.GenerateResource.cache
+D:\Orxan\Documents\Visual Studio isler\lab9(2020))\lab9(2020))\obj\Debug\lab9(2020)).csproj.CoreCompileInputs.cache
+D:\Orxan\Documents\Visual Studio isler\lab9(2020))\lab9(2020))\obj\Debug\lab9(2020)).exe
+D:\Orxan\Documents\Visual Studio isler\lab9(2020))\lab9(2020))\obj\Debug\lab9(2020)).pdb
+D:\Orxan\Documents\Visual Studio isler\OrkhanPad(lab9)\lab9(2020))\bin\Debug\lab9(2020)).exe.config
+D:\Orxan\Documents\Visual Studio isler\OrkhanPad(lab9)\lab9(2020))\bin\Debug\lab9(2020)).exe
+D:\Orxan\Documents\Visual Studio isler\OrkhanPad(lab9)\lab9(2020))\bin\Debug\lab9(2020)).pdb
+D:\Orxan\Documents\Visual Studio isler\OrkhanPad(lab9)\lab9(2020))\obj\Debug\lab9(2020)).csprojAssemblyReference.cache
+D:\Orxan\Documents\Visual Studio isler\OrkhanPad(lab9)\lab9(2020))\obj\Debug\lab9_2020__.Form1.resources
+D:\Orxan\Documents\Visual Studio isler\OrkhanPad(lab9)\lab9(2020))\obj\Debug\lab9_2020__.Properties.Resources.resources
+D:\Orxan\Documents\Visual Studio isler\OrkhanPad(lab9)\lab9(2020))\obj\Debug\lab9(2020)).csproj.GenerateResource.cache
+D:\Orxan\Documents\Visual Studio isler\OrkhanPad(lab9)\lab9(2020))\obj\Debug\lab9(2020)).csproj.CoreCompileInputs.cache
+D:\Orxan\Documents\Visual Studio isler\OrkhanPad(lab9)\lab9(2020))\obj\Debug\lab9(2020)).exe
+D:\Orxan\Documents\Visual Studio isler\OrkhanPad(lab9)\lab9(2020))\obj\Debug\lab9(2020)).pdb
